@@ -24,7 +24,7 @@ Tabelas de informação
 ![Apache NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-0D1117?logo=apachenetbeanside&logoColor=fff8&style=for-the-badge)
   
 
-![Snake animation](https://github.com/mirandox/JGustavoCN/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
