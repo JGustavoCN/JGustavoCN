@@ -14,13 +14,14 @@
 
 ---
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle-java&labelColor=f89820&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=n,git,github,java,mysql" />
 </div>
+
  
 ### Tools:
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -28,12 +29,10 @@
   
 ---
 
-![Snake animation](https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
