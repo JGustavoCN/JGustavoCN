@@ -9,7 +9,14 @@ Tabelas de informação
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoCN&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <!---->
-
+div align=center>
+    <a href="https://github.com/denvercoder1//github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JGustavoCN&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=JGustavoCN&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle-java&labelColor=f89820&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
