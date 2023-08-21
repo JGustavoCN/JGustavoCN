@@ -26,6 +26,8 @@ Tabelas de informação
 
 ![Snake animation](https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JGustavoCN}/count.svg" /></p> 
