@@ -15,8 +15,9 @@
 
 ---
 
-### Studying in this moment:
+## Studying in this moment:
 
+<br>
 <div align="center">
     <table>
         <tr>
@@ -41,8 +42,6 @@
                     Git
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="200">
                 <a href="https://github.com/git">
                     <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="60" />
@@ -50,14 +49,11 @@
                     GitHub
                 </a>
             </td>
-            <td align="center" width="200">
-            </td>
-            <td align="center" width="200">
-            </td>
         </tr>
     </table>
 </div>
- 
+<br>
+
 ---
 
 <div align="center">
