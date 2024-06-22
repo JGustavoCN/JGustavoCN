@@ -43,6 +43,13 @@
                 </a>
             </td>
             <td align="center" width="200">
+                <a href="https://github.com/mongodb">
+                    <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="60" />
+                    <br />
+                    MongoDB
+                </a>
+            </td>
+            <td align="center" width="200">
                 <a href="https://github.com/git">
                     <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60" />
                     <br />
@@ -61,6 +68,27 @@
                     <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="60" />
                     <br />
                     JUnit
+                </a>
+            </td>
+            <td align="center" width="200">
+                <a href="https://github.com/mockito">
+                    <img src="https://avatars.githubusercontent.com/u/2054056?s=200&v=4" width="60" />
+                    <br />
+                    Mockito
+                </a>
+            </td>
+            <td align="center" width="200">
+                <a href="https://github.com/projectlombok">
+                    <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="60" />
+                    <br />
+                    Lombok
+                </a>
+            </td>
+            <td align="center" width="200">
+                <a href="https://github.com/apache/maven">
+                    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" width="60" />
+                    <br />
+                    Maven
                 </a>
             </td>
         </tr>
