@@ -29,7 +29,7 @@
     <table>
         <tr>
             <td align="center" width="200">
-                <a href="https://github.com/mysql">
+                <a href="https://github.com/java">
                     <img src="https://avatars.githubusercontent.com/u/126123820?s=200&v=4" width="60" />
                     <br />
                     Java
@@ -57,8 +57,8 @@
                 </a>
             </td>
             <td align="center" width="200">
-                <a href="https://github.com/junit">
-                    <img src="https://avatars.githubusercontent.com/u/126123820?s=200&v=4" width="60" />
+                <a href="https://github.com/junit-team">
+                    <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="60" />
                     <br />
                     JUnit
                 </a>
