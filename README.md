@@ -15,7 +15,7 @@
   <br>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,cs,dotnet,go,docker,nodejs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,go,docker,nodejs&perline=10" />
   </a>
   
   <br>
@@ -27,19 +27,13 @@
   <br>
   
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mkdocs,materialformkdocs,render,githubpages,markdown,apachejmeter,junit5,junit4,springsecurity,springboot" />
-  </a>
-
-  <br>
-  
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mkdocs,materialformkdocs,render,githubpages,vercel,markdown" />
   </a>
 
   <br>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,aws,postman&perline=10" />
   </a>
   
   <br><br>
@@ -112,4 +106,9 @@
   <br>
 </div>
 
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skills.syvixor.com/api/icons?perline=20&i=androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow,swc,chartjs,figma,javascript,mariadb,powerbi,powershell,prettier,pytorch,regex,rest,trello,uml,visualstudio,visualstudiocode,yaml,virtualbox,androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow,zabbix,apachejmeter,junit5,junit4,springsecurity,springboot,hibernate" />
+  </a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
