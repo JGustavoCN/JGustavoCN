@@ -1,99 +1,84 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Gustavo;Full+Stack:+Java+|+DotNet+|+Go+|+React;Mobile+Dev+com+Flutter;Foco+em+Engenharia+de+Software+e+Performance;Seja+Bem-vindo!+🚀" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Gustavo;Eu+tenho+21+anos;Sou+de+Tobias+Barreto,+SE;Estudo+Sistemas+de+Informação+no+IFS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  > ## 🛠️ **ARSENAL TÉCNICO**
+  
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,cs,dotnet,go,docker,nodejs&perline=10" />
+  </a>
+  
+  <br>
+  
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=react,nextjs,vite,materialui,flutter,mysql,sqlserver,mongodb&perline=10" />
+  </a>
 
-<br> <br>
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,postman&perline=10" />
+  </a>
+  
+  <br><br>
+  
+  <p><i>Combinando a robustez do <b>Java/C#</b> com a performance do <b>Go</b> e a agilidade do <b>React/Flutter</b>.</i></p>
 
----
-
-> ## **INFORMAÇÕES DO MEU GITHUB:**
-
-<br>
-
-<div align="center">
-  <img width="90%" height="240px" src="https://github-readme-stats.vercel.app/api?username=JGustavoCN&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Gustavo github stats" /> 
-  <img width="90%" height="223px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoCN&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img width="90%" height="225px" src=https://github-readme-streak-stats.herokuapp.com/?user=JGustavoCN&theme=react&border=c9d1d9&hide_border=true" alt="José Gustavo github stats" />
 </div>
 
 <br>
 
 ---
 
-<br>
-
-> ## **ESTUDANDO NESSE MOMENTO:**
-
-<br>
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="200">
-                <a href="https://github.com/java">
-                    <img src="https://avatars.githubusercontent.com/u/126123820?s=200&v=4" width="60" />
-                    <br />
-                    Java
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/mysql">
-                    <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" width="60" />
-                    <br />
-                    MySql
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/mongodb">
-                    <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="60" />
-                    <br />
-                    MongoDB
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/git">
-                    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60" />
-                    <br />
-                    Git
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/git">
-                    <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="60" />
-                    <br />
-                    GitHub
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/junit-team">
-                    <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="60" />
-                    <br />
-                    JUnit
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/mockito">
-                    <img src="https://avatars.githubusercontent.com/u/2054056?s=200&v=4" width="60" />
-                    <br />
-                    Mockito
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/projectlombok">
-                    <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="60" />
-                    <br />
-                    Lombok
-                </a>
-            </td>
-            <td align="center" width="200">
-                <a href="https://github.com/apache/maven">
-                    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" width="60" />
-                    <br />
-                    Maven
-                </a>
-            </td>
-        </tr>
-    </table>
+
+> ## ⭐ **PROJETO EM DESTAQUE**
+
+<br>
+
+<a href="https://github.com/JGustavoCN/dataprofiler">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=JGustavoCN&repo=dataprofiler&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&description_lines_count=2" />
+</a>
+
+<br>
+<p>
+  <a href="https://jgustavocn.github.io/dataprofiler/">📚 Ler Documentação (Arquitetura)</a> • 
+  <a href="https://dataprofiler-jgustavocn.onrender.com/">🚀 Ver Demo (Render)</a>
+</p>
+
 </div>
+
+---
+
+<br>
+
+<div align="center">
+
+> ## 📊 **GITHUB STATS**
+
+<br>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JGustavoCN&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Gustavo github stats" /> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoCN&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JGustavoCN&theme=react&border=c9d1d9&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf" alt="José Gustavo streak stats" />
+
+</div>
+
 <br>
 
 ---
@@ -109,8 +94,10 @@
 ---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JGustavoCN}/count.svg" /></p> 
-<br></div>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JGustavoCN}/count.svg" /></p> 
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
