@@ -23,6 +23,18 @@
   <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=react,nextjs,vite,materialui,flutter,mysql,sqlserver,mongodb&perline=10" />
   </a>
+  
+  <br>
+  
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mkdocs,materialformkdocs,render,githubpages,markdown,apachejmeter,junit5,junit4,springsecurity,springboot" />
+  </a>
+
+  <br>
+  
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow" />
+  </a>
 
   <br>
   
