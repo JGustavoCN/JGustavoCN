@@ -13,27 +13,69 @@
   > ## 🛠️ **ARSENAL TÉCNICO**
   
   <br>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,go,docker,nodejs&perline=10" />
-  </a>
-  
-  <br>
-  
+
+  <h3>💻 Linguagens de Programação</h3>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=react,nextjs,vite,materialui,flutter,mysql,sqlserver,mongodb&perline=10" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,cs,go,python,javascript,powershell,regex,markdown,yaml" />
+    
   </a>
-  
-  <br>
-  
+  <a href="https://skills.syvixor.com"><img src="https://skillicons.dev/icons?i=cs&perline=15" /></a>
+
+  <br><br>
+
+  <h3>🌐 Frontend & Mobile</h3>
+  <img
+              src="https://techstack-generator.vercel.app/react-icon.svg"
+              alt="icon"
+              width="50"
+              height="50"
+              style="max-width: 100%; height: auto; max-height: 50px;"/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mkdocs,materialformkdocs,render,githubpages,vercel,markdown" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nextjs,vite,materialui,flutter,chartjs,swc,prettier,figma" />
+    <img height="40" src="https://cdn.simpleicons.org/blazor/512BD4" title="Blazor" />
+    <img height="40" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" title="MudBlazor" />
   </a>
 
-  <br>
+  <br><br>
+
+  <h3>⚙️ Backend & Frameworks</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=spring,springboot,springsecurity,hibernate,maven,dotnet,nodejs,rest" />
+  </a>
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,aws,postman&perline=10" />
+  <br><br>
+
+  <h3>🧪 Testes & Qualidade</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=junit5,junit4,apachejmeter" />
+  </a>
+
+  <br><br>
+
+  <h3>🗄️ Banco de Dados</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,sqlserver,mongodb,mariadb,oracle" />
+  </a>
+
+  <br><br>
+
+  <h3>🤖 Data Science & AI</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tensorflow,pytorch,googlecolaboratory,powerbi" />
+  </a>
+
+  <br><br>
+
+  <h3>☁️ DevOps, Cloud & Deploy</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=azure,docker,aws,linux,windows,vercel,render,githubpages,virtualbox,zabbix" />
+  </a>
+
+  <br><br>
+
+  <h3>🛠️ IDEs, Ferramentas & Gestão</h3>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,postman,androidstudio,intellijidea,netbeans,visualstudio,visualstudiocode,dbeaver,trello,uml,mkdocs,materialformkdocs" />
   </a>
   
   <br><br>
@@ -106,9 +148,4 @@
   <br>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skills.syvixor.com/api/icons?perline=20&i=androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow,swc,chartjs,figma,javascript,mariadb,powerbi,powershell,prettier,pytorch,regex,rest,trello,uml,visualstudio,visualstudiocode,yaml,virtualbox,androidstudio,netbeans,intellijidea,dbeaver,oracle,python,googlecolaboratory,tensorflow,zabbix,apachejmeter,junit5,junit4,springsecurity,springboot,hibernate" />
-  </a>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
