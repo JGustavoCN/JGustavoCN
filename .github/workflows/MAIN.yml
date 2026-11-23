@@ -10,10 +10,13 @@ on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
+
+permissions:
+  contents: write
 
 # The sequence of runs in this workflow:
 jobs:
@@ -25,7 +28,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3

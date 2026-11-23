@@ -1,130 +1,129 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Gustavo;Full+Stack:+Java+|+DotNet+|+Go+|+React;Mobile+Dev+com+Flutter;Foco+em+Engenharia+de+Software+e+Performance;Seja+Bem-vindo!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Jos%C3%A9+Gustavo;Full+Stack:+Java+|+DotNet+|+Go+|+React;Mobile+Dev+com+Flutter;Foco+em+Engenharia+de+Software+e+Performance;Seja+Bem-vindo!" alt="Typing SVG" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  
-  > ## 🛠️ **ARSENAL TÉCNICO**
-  
-  <br>
-
-  <h3>💻 Linguagens de Programação</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,cs,go,python,javascript,powershell,regex,markdown,yaml" />
-    
-  </a>
-  <a href="https://skills.syvixor.com"><img src="https://skillicons.dev/icons?i=cs&perline=15" /></a>
-
-  <br><br>
-
-  <h3>🌐 Frontend & Mobile</h3>
-  <img
-              src="https://techstack-generator.vercel.app/react-icon.svg"
-              alt="icon"
-              width="50"
-              height="50"
-              style="max-width: 100%; height: auto; max-height: 50px;"/>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nextjs,vite,materialui,flutter,chartjs,swc,prettier,figma" />
-    <img height="40" src="https://cdn.simpleicons.org/blazor/512BD4" title="Blazor" />
-    <img height="40" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" title="MudBlazor" />
-  </a>
-
-  <br><br>
-
-  <h3>⚙️ Backend & Frameworks</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=spring,springboot,springsecurity,hibernate,maven,dotnet,nodejs,rest" />
-  </a>
-  
-  <br><br>
-
-  <h3>🧪 Testes & Qualidade</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=junit5,junit4,apachejmeter" />
-  </a>
-
-  <br><br>
-
-  <h3>🗄️ Banco de Dados</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,sqlserver,mongodb,mariadb,oracle" />
-  </a>
-
-  <br><br>
-
-  <h3>🤖 Data Science & AI</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tensorflow,pytorch,googlecolaboratory,powerbi" />
-  </a>
-
-  <br><br>
-
-  <h3>☁️ DevOps, Cloud & Deploy</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=azure,docker,aws,linux,windows,vercel,render,githubpages,virtualbox,zabbix" />
-  </a>
-
-  <br><br>
-
-  <h3>🛠️ IDEs, Ferramentas & Gestão</h3>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,postman,androidstudio,intellijidea,netbeans,visualstudio,visualstudiocode,dbeaver,trello,uml,mkdocs,materialformkdocs" />
-  </a>
-  
-  <br><br>
-  
   <p><i>Combinando a robustez do <b>Java/C#</b> com a performance do <b>Go</b> e a agilidade do <b>React/Flutter</b>.</i></p>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-> ## ⭐ **PROJETO EM DESTAQUE**
-
-<br>
-
-<a href="https://github.com/JGustavoCN/dataprofiler">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=JGustavoCN&repo=dataprofiler&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&description_lines_count=2" />
-</a>
-
-<br>
-<p>
-  <a href="https://jgustavocn.github.io/dataprofiler/">📚 Ler Documentação (Arquitetura)</a> • 
-  <a href="https://dataprofiler-jgustavocn.onrender.com/">🚀 Ver Demo (Render)</a>
-</p>
-
 </div>
 
 ---
 
-<br>
+## Projetos em Destaque
+
+<table>
+  <tr>
+    <td colspan="6" align="center">
+      <a href="https://github.com/JGustavoCN/dataprofiler">
+        <img src="./assets/bento/bento-dataprofiler.svg" alt="DataProfiler Enterprise — 10 GB em 512 MB RAM" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+      <a href="https://base-apoio-partiuif.vercel.app">
+        <img src="./assets/bento/bento-partiuif.svg" alt="Base de Apoio Partiu IF — MCP v2 OAuth 2.1 e 340+ Testes" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" width="50%" align="center">
+      <a href="https://github.com/JGustavoCN/mcp-gdocs-latex">
+        <img src="./assets/bento/bento-mcp.svg" alt="MCP DocsLaTeX Bridge — 20 Tools e 4 Normas ABNT" width="100%" />
+      </a>
+    </td>
+    <td colspan="3" width="50%" align="center">
+      <a href="https://github.com/JGustavoCN/sispubli-api">
+        <img src="./assets/bento/bento-sispubli.svg" alt="Sispubli API — Zero PII Leak e 91% Cobertura" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="33.3%" align="center">
+      <a href="https://github.com/JGustavoCN/aeutb-auditor">
+        <img src="./assets/bento/bento-aeutb.svg" alt="AEUTB Auditor" width="100%" />
+      </a>
+    </td>
+    <td colspan="2" width="33.3%" align="center">
+      <a href="https://github.com/JGustavoCN/PlayIFS">
+        <img src="./assets/bento/bento-playifs.svg" alt="PlayIFS" width="100%" />
+      </a>
+    </td>
+    <td colspan="2" width="33.3%" align="center">
+      <a href="https://github.com/JGustavoCN/pharmastation">
+        <img src="./assets/bento/bento-pharmastation.svg" alt="PharmaStation PDV" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>Outros projetos, demos ao vivo e documentações</strong></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <th align="left">Projeto</th>
+    <th align="left">Stack &amp; Entrega</th>
+    <th align="left">Acesso</th>
+  </tr>
+  <tr>
+    <td><strong>IFdex</strong></td>
+    <td>Flutter + Firebase • Cofre acadêmico gamificado (XP) integrável ao Sispubli</td>
+    <td><a href="https://github.com/JGustavoCN/ifdex">Repositório</a> • <a href="https://ifdex-app.firebaseapp.com/">App</a></td>
+  </tr>
+  <tr>
+    <td><strong>Template TCC IFS LaTeX</strong></td>
+    <td>LaTeX ABNT + Docker + CI/CD • Compilação automática e Skills para Agentes de IA</td>
+    <td><a href="https://github.com/JGustavoCN/template-tcc-ifs-latex">Repositório</a> • <a href="https://jgustavocn.github.io/template-tcc-ifs-latex/">PDF Público</a></td>
+  </tr>
+  <tr>
+    <td><strong>Miles Manager</strong></td>
+    <td>C# (.NET 8) + Blazor + MudBlazor • Clean Architecture (Onion) com SQL Server</td>
+    <td><a href="https://github.com/JGustavoCN/miles-manager">Repositório</a> • <a href="https://miles-manager-app-jgustavocn-acbhhhavcgchgsgk.eastus-01.azurewebsites.net/">Azure</a></td>
+  </tr>
+</table>
+
+**Links diretos (Demos &amp; Docs dos cards acima):**
+[DataProfiler Demo](https://dataprofiler-jgustavocn.onrender.com) / [Docs](https://jgustavocn.github.io/dataprofiler/) • [Base Partiu IF](https://base-apoio-partiuif.vercel.app) / [Conectar IA](https://base-apoio-partiuif.vercel.app/conectar-ia) • [Sispubli Swagger](https://sispubli-api.vercel.app/docs) • [AEUTB App](https://aeutb-auditor.vercel.app) • [PharmaStation Release](https://github.com/JGustavoCN/pharmastation/releases/latest)
+
+</details>
+
+---
+
+## Arsenal Técnico
 
 <div align="center">
-
-> ## 📊 **GITHUB STATS**
+  <img src="https://skills.syvixor.com/api/icons?perline=12&i=go,java,cs,python,typescript,react,nextjs,flutter,spring,dotnet,docker,postgresql" alt="Core Stack" />
+</div>
 
 <br>
+
+<details>
+<summary><strong>Ver stack complementar, testes e infraestrutura</strong></summary>
+
+- **Linguagens & Web:** JavaScript, PowerShell, Blazor, MudBlazor, Material UI, Tailwind CSS, Vite, SWC
+- **Backend & IA:** FastAPI, Spring Boot, Spring Security, Hibernate, Entity Framework Core, Node.js, Model Context Protocol (`mcp-use`)
+- **Qualidade & Testes:** Pytest (VCR/E2E), Vitest, JUnit 5, Ruff, Apache JMeter
+- **Bancos de Dados:** PostgreSQL (Supabase + RLS), SQL Server, MySQL, MariaDB, Oracle, MongoDB
+- **Cloud & DevOps:** Docker, GitHub Actions, Vercel, Render, Azure, AWS, Linux
+
+</details>
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JGustavoCN&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Gustavo github stats" /> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoCN&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoCN&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JGustavoCN&theme=react&border=c9d1d9&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf" alt="José Gustavo streak stats" />
-
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JGustavoCN&theme=react&border=c9d1d9&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf" alt="José Gustavo streak stats" />
 </div>
 
 <br>
@@ -133,19 +132,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/JGustavoCN/JGustavoCN/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGustavoCN/JGustavoCN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGustavoCN/JGustavoCN/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JGustavoCN/JGustavoCN/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
----
-
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JGustavoCN}/count.svg" /></p> 
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
