@@ -27,7 +27,7 @@
 
   <rect x="94" y="18" width="215" height="22" rx="11" class="pill" />
   <text x="106" y="33" class="pill-txt">GO 1.25 • REACT 19 • DOCKER • SSE</text>
-  <text x="665" y="33" class="zoom-hint">[clique para ampliar detalhes]</text>
+  <text x="665" y="33" class="zoom-hint">[clique para abrir repositório →]</text>
 
   <text x="94" y="65" class="title">DataProfiler Enterprise</text>
   <text x="26" y="91" class="desc">Motor de ingestão CSV/JSONL em streaming O(1) para arquivos massivos sem Out-Of-Memory, distribuído em binário único.</text>

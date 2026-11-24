@@ -1,0 +1,27 @@
+<svg viewBox="0 0 840 225" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .hdr { fill: #161b22; }
+    .hdr-txt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; font-weight: 700; fill: #00bfbf; letter-spacing: 0.5px; }
+    .stats-txt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; fill: #c9d1d9; }
+    .col-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #f0f6fc; }
+    .row-bg { fill: #161b22; stroke: #21262d; stroke-width: 1; }
+    .repo-name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #f0f6fc; }
+    .meta { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10.5px; fill: #8b949e; }
+    .tag-pill { fill: rgba(0, 191, 191, 0.12); stroke: #00bfbf; stroke-width: 0.9; }
+    .tag-txt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; font-weight: 600; fill: #00bfbf; }
+  </style>
+
+  <rect x="1" y="1" width="838" height="223" rx="14" class="card" />
+  <path d="M 1 15 A 14 14 0 0 1 15 1 L 825 1 A 14 14 0 0 1 839 15 L 839 40 L 1 40 Z" class="hdr" />
+  <line x1="1" y1="40" x2="839" y2="40" stroke="#21262d" stroke-width="1" />
+
+  <text x="26" y="25" class="hdr-txt">ATIVIDADE AUTOMATIZADA VIA GITHUB ACTIONS • 23/11/2026</text>
+  <text x="814" y="25" text-anchor="end" class="stats-txt">20 Repos • 18 Stars • 16 Seguidores</text>
+
+  <text x="26" y="64" class="col-title">Últimos Repositórios Atualizados</text>
+  <rect x="26" y="76" width="378" height="26" rx="6" class="row-bg" /><circle cx="40" cy="89" r="4.5" fill="#F7DF1E" /><text x="53" y="93" class="repo-name">template-tcc-ifs-latex</text><text x="392" y="93" text-anchor="end" class="meta">JavaScript • 2026-11-23</text><rect x="26" y="108" width="378" height="26" rx="6" class="row-bg" /><circle cx="40" cy="121" r="4.5" fill="#00ADD8" /><text x="53" y="125" class="repo-name">mcp-gdocs-latex</text><text x="392" y="125" text-anchor="end" class="meta">Go • 2026-11-23</text><rect x="26" y="140" width="378" height="26" rx="6" class="row-bg" /><circle cx="40" cy="153" r="4.5" fill="#0175C2" /><text x="53" y="157" class="repo-name">PlayIFS</text><text x="392" y="157" text-anchor="end" class="meta">Dart • 2026-09-10</text><rect x="26" y="172" width="378" height="26" rx="6" class="row-bg" /><circle cx="40" cy="185" r="4.5" fill="#ED8B00" /><text x="53" y="189" class="repo-name">pharmastation</text><text x="392" y="189" text-anchor="end" class="meta">Java • 2026-09-08</text>
+
+  <text x="436" y="64" class="col-title">Últimos Releases Publicados</text>
+  <rect x="436" y="76" width="378" height="26" rx="6" class="row-bg" /><circle cx="450" cy="89" r="4" fill="#3fb950" /><text x="462" y="93" class="repo-name">template-tcc-ifs-latex</text><rect x="652" y="79" width="78" height="20" rx="5" class="tag-pill" /><text x="691" y="93" text-anchor="middle" class="tag-txt">build-14</text><text x="802" y="93" text-anchor="end" class="meta">2026-11-23</text><rect x="436" y="108" width="378" height="26" rx="6" class="row-bg" /><circle cx="450" cy="121" r="4" fill="#3fb950" /><text x="462" y="125" class="repo-name">pharmastation</text><rect x="652" y="111" width="78" height="20" rx="5" class="tag-pill" /><text x="691" y="125" text-anchor="middle" class="tag-txt">v1.1.0</text><text x="802" y="125" text-anchor="end" class="meta">2026-09-08</text><rect x="436" y="140" width="378" height="26" rx="6" class="row-bg" /><circle cx="450" cy="153" r="4" fill="#3fb950" /><text x="462" y="157" class="repo-name">latex-filhos-de-obalua</text><rect x="652" y="143" width="78" height="20" rx="5" class="tag-pill" /><text x="691" y="157" text-anchor="middle" class="tag-txt">build-1</text><text x="802" y="157" text-anchor="end" class="meta">2026-07-14</text>
+</svg>

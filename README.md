@@ -11,128 +11,103 @@
 
 ## Projetos em Destaque
 
-<sub>Clique na imagem de qualquer card para <b>ampliar o SVG</b> ou expanda <b>Ver motivo e ganhos</b> para ler o caso completo:</sub>
+<sub>Clique em qualquer card para abrir o projeto, ou expanda abaixo de cada um para ver o motivo e os ganhos:</sub>
 
 <table>
   <tr>
     <td colspan="6" align="center" valign="top">
-      <img src="./assets/bento/bento-dataprofiler.svg" alt="DataProfiler Enterprise — Pipeline Streaming O(1)" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/dataprofiler"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://dataprofiler-jgustavocn.onrender.com"><kbd>Live Demo</kbd></a>&nbsp;
-          <a href="https://jgustavocn.github.io/dataprofiler/"><kbd>Documentação</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/dataprofiler" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-dataprofiler.svg" alt="DataProfiler Enterprise — Pipeline Streaming O(1)" width="100%" />
+      </a>
       <details>
-        <summary><sub><b>Ver motivo, arquitetura e ganhos completos</b></sub></summary>
+        <summary><sub><b>Ver motivo, arquitetura e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por que foi feito:</b> Analisadores comuns (como Pandas) carregam arquivos inteiros em RAM, causando <i>Out-Of-Memory</i> em servidores de baixo custo.<br/>
           <b>Solução &amp; Engenharia:</b> Pipeline <i>Producer-Consumer</i> em Go com <code>sync.Pool</code> (zero-allocation), sniffer automático de encoding/separador, progresso via SSE e frontend React embutido via <code>//go:embed</code>.<br/>
-          <b>Ganhos Reais:</b> Processa <b>10 GB (~120M linhas)</b> em container limitado a <b>512 MB de RAM</b> mantendo pico de apenas <b>~12 MB de Heap</b> (complexidade de espaço O(1)) e detecção nativa de padrões BR (CNPJ, CPF, NFe, Placas, CEP).
+          <b>Ganhos Reais:</b> Processa <b>10 GB (~120M linhas)</b> em container limitado a <b>512 MB de RAM</b> mantendo pico de apenas <b>~12 MB de Heap</b> (O(1)) e detecção nativa de padrões BR (CNPJ, CPF, NFe, Placas, CEP).<br/>
+          <b>Acessos extras:</b> <a href="https://dataprofiler-jgustavocn.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> • <a href="https://jgustavocn.github.io/dataprofiler/" target="_blank" rel="noopener noreferrer">Documentação</a>
         </sub></p>
       </details>
     </td>
   </tr>
   <tr>
     <td colspan="6" align="center" valign="top">
-      <img src="./assets/bento/bento-partiuif.svg" alt="Base de Apoio Partiu IF — MCP OAuth 2.1 e RLS" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://base-apoio-partiuif.vercel.app"><kbd>Aplicação em Produção</kbd></a>&nbsp;
-          <a href="https://base-apoio-partiuif.vercel.app/conectar-ia"><kbd>Conectar IA (MCP)</kbd></a>
-        </sub>
-      </p>
+      <a href="https://base-apoio-partiuif.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-partiuif.svg" alt="Base de Apoio Partiu IF — MCP OAuth 2.1 e RLS" width="100%" />
+      </a>
       <details>
-        <summary><sub><b>Ver motivo, arquitetura e ganhos completos</b></sub></summary>
+        <summary><sub><b>Ver motivo, arquitetura e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por que foi feito:</b> Padronizar a elaboração de simulados/provas diagramadas em A4 e a prestação de contas de monitoria do programa federal Partiu IF (MEC/Secadi/IFS).<br/>
           <b>Solução &amp; Engenharia:</b> Plataforma Next.js 16 + Supabase com fluxo editorial travado por máquina de estados, editor KaTeX/MathLive e servidor MCP v2 integrado (<code>mcp-use</code> + OAuth 2.1 PKCE + PostgreSQL RLS).<br/>
-          <b>Ganhos Reais:</b> Busca semântica em <b>12.800 habilidades BNCC</b>, preview interativo de folha A4 dentro do Claude/ChatGPT (SEP-1865), controle RBAC com 5 perfis e <b>340+ testes automatizados</b> em Vitest. <i>(Repositório institucional privado)</i>
+          <b>Ganhos Reais:</b> Busca semântica em <b>12.800 habilidades BNCC</b>, preview interativo de folha A4 dentro do Claude/ChatGPT (SEP-1865), controle RBAC com 5 perfis e <b>340+ testes automatizados</b> em Vitest. <i>(Repositório institucional privado)</i><br/>
+          <b>Acessos extras:</b> <a href="https://base-apoio-partiuif.vercel.app/conectar-ia" target="_blank" rel="noopener noreferrer">Conectar IA (MCP)</a>
         </sub></p>
       </details>
     </td>
   </tr>
   <tr>
     <td colspan="3" width="50%" align="center" valign="top">
-      <img src="./assets/bento/bento-mcp.svg" alt="MCP DocsLaTeX Bridge" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/mcp-gdocs-latex"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://github.com/JGustavoCN/mcp-gdocs-latex/releases"><kbd>Releases (Binários)</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/mcp-gdocs-latex" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-mcp.svg" alt="MCP DocsLaTeX Bridge" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Orientadores revisam no Google Docs enquanto autores escrevem em LaTeX local, gerando retrabalho manual e quebra de normas.<br/>
-          <b>Ganhos:</b> <b>20 tools HATEOAS</b> em binário Go único (zero Python/Node), diff em 3 níveis, edição atômica anti-bleeding, paginação real via goroutines e auditoria ABNT (NBR 14724/6023/6024/6027).
+          <b>Ganhos:</b> <b>20 tools HATEOAS</b> em binário Go único (zero Python/Node), diff em 3 níveis, edição atômica anti-bleeding, paginação real via goroutines e auditoria ABNT (NBR 14724/6023/6024/6027).<br/>
+          <b>Extra:</b> <a href="https://github.com/JGustavoCN/mcp-gdocs-latex/releases" target="_blank" rel="noopener noreferrer">Binários (Releases)</a>
         </sub></p>
       </details>
     </td>
     <td colspan="3" width="50%" align="center" valign="top">
-      <img src="./assets/bento/bento-sispubli.svg" alt="Sispubli API Security-First Proxy" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/sispubli-api"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://sispubli-api.vercel.app/docs"><kbd>Swagger API</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/sispubli-api" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-sispubli.svg" alt="Sispubli API Security-First Proxy" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> O sistema legado institucional trafegava em HTTP puro e expunha o CPF do estudante diretamente nas URLs de certificados e logs.<br/>
-          <b>Ganhos:</b> Proxy <i>Security-First</i> em FastAPI com <b>URL Ticket Proxy</b> (tickets efêmeros Fernet), PII Redactor em logs, Edge Cache de 24h e <b>91% de cobertura de testes</b> (Pytest/VCR/E2E).
+          <b>Ganhos:</b> Proxy <i>Security-First</i> em FastAPI com <b>URL Ticket Proxy</b> (tickets efêmeros Fernet), PII Redactor em logs, Edge Cache de 24h e <b>91% de cobertura de testes</b> (Pytest/VCR/E2E).<br/>
+          <b>Extra:</b> <a href="https://sispubli-api.vercel.app/docs" target="_blank" rel="noopener noreferrer">Swagger API</a>
         </sub></p>
       </details>
     </td>
   </tr>
   <tr>
     <td colspan="2" width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-aeutb.svg" alt="AEUTB Auditor" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/aeutb-auditor"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://aeutb-auditor.vercel.app"><kbd>Abrir App</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/aeutb-auditor" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-aeutb.svg" alt="AEUTB Auditor" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Extravio de vagas e furos de fila em listas de transporte universitário no WhatsApp.<br/>
-          <b>Ganhos:</b> Parser estatístico lê milhares de linhas <code>.txt</code>, gera prova comparativa lado a lado e relatórios compartilháveis via hash (<code>/report/[hash]</code>).
+          <b>Ganhos:</b> Parser estatístico lê milhares de linhas <code>.txt</code>, gera prova comparativa lado a lado e relatórios via hash (<code>/report/[hash]</code>). <a href="https://aeutb-auditor.vercel.app" target="_blank" rel="noopener noreferrer">App</a>
         </sub></p>
       </details>
     </td>
     <td colspan="2" width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-playifs.svg" alt="PlayIFS" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/PlayIFS"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://github.com/JGustavoCN/PlayIFS/tree/main/frontend"><kbd>App Flutter</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/PlayIFS" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-playifs.svg" alt="PlayIFS" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Competições do IFS dependiam de planilhas manuais propensas a erros.<br/>
-          <b>Ganhos:</b> Sorteio balanceado, mata-mata automático (com W.O. e <i>byes</i>), súmula em lote e <b>16 manuais de engenharia</b> (Java 21 + Spring Boot + Flutter/Riverpod).
+          <b>Ganhos:</b> Sorteio balanceado, mata-mata automático (W.O. e <i>byes</i>), súmula em lote e <b>16 manuais de engenharia</b> (Java 21 + Spring Boot + Flutter).
         </sub></p>
       </details>
     </td>
     <td colspan="2" width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-pharmastation.svg" alt="PharmaStation PDV" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/pharmastation"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://github.com/JGustavoCN/pharmastation/releases/latest"><kbd>Download Release</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/pharmastation" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-pharmastation.svg" alt="PharmaStation PDV" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Aplicar Estruturas de Dados puras em um PDV desktop de alto acabamento visual.<br/>
-          <b>Ganhos:</b> <b>Lista, Fila e Pilha do zero</b> (sem <code>java.util.List</code>), UI Dark/Light com FlatLaf, controle RBAC com SHA-256 e relatórios PDF em JasperReports 7.0.
+          <b>Ganhos:</b> <b>Lista, Fila e Pilha do zero</b> (sem <code>java.util.List</code>), UI Dark/Light com FlatLaf, RBAC SHA-256 e PDFs em JasperReports 7.0. <a href="https://github.com/JGustavoCN/pharmastation/releases/latest" target="_blank" rel="noopener noreferrer">Release</a>
         </sub></p>
       </details>
     </td>
@@ -147,50 +122,38 @@
 <table>
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-ifdex.svg" alt="IFdex — Cofre Acadêmico Gamificado" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/ifdex"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://ifdex-app.firebaseapp.com/"><kbd>Abrir PWA</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/ifdex" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-ifdex.svg" alt="IFdex — Cofre Acadêmico Gamificado" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Estudantes perdem certificados espalhados entre sistemas e pastas.<br/>
-          <b>Ganhos:</b> App híbrido Flutter (Android/PWA) integrado ao Sispubli com sistema de XP, FVM e hooks de qualidade via Lefthook.
+          <b>Ganhos:</b> App híbrido Flutter (Android/PWA) integrado ao Sispubli com sistema de XP, FVM e Lefthook. <a href="https://ifdex-app.firebaseapp.com/" target="_blank" rel="noopener noreferrer">PWA</a>
         </sub></p>
       </details>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-tcc.svg" alt="Template TCC IFS LaTeX" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://jgustavocn.github.io/template-tcc-ifs-latex/"><kbd>Ver PDF</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-tcc.svg" alt="Template TCC IFS LaTeX" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Eliminar barreiras de configuração de ambiente LaTeX ABNT.<br/>
-          <b>Ganhos:</b> Compilação na nuvem (GitHub Pages/Releases a cada push), Dev Containers e <code>.agents/skills/</code> compatível de fábrica com o <code>mcp-gdocs-latex</code>.
+          <b>Ganhos:</b> Compilação na nuvem (GitHub Pages/Releases a cada push), Dev Containers e <code>.agents/skills/</code> compatível com o <code>mcp-gdocs-latex</code>. <a href="https://jgustavocn.github.io/template-tcc-ifs-latex/" target="_blank" rel="noopener noreferrer">PDF</a>
         </sub></p>
       </details>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="./assets/bento/bento-miles.svg" alt="Miles Manager — C# .NET 8" width="100%" />
-      <p align="center">
-        <sub>
-          <a href="https://github.com/JGustavoCN/miles-manager"><kbd>Código</kbd></a>&nbsp;
-          <a href="https://miles-manager-app-jgustavocn-acbhhhavcgchgsgk.eastus-01.azurewebsites.net/"><kbd>Demo Azure</kbd></a>
-        </sub>
-      </p>
+      <a href="https://github.com/JGustavoCN/miles-manager" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/bento/bento-miles.svg" alt="Miles Manager — C# .NET 8" width="100%" />
+      </a>
       <details>
         <summary><sub><b>Ver motivo e ganhos</b></sub></summary>
         <p align="left"><sub>
           <b>Por quê:</b> Centralizar cálculo de pontos dispersos entre cartões e programas de fidelidade.<br/>
-          <b>Ganhos:</b> Clean Architecture (Core, Infrastructure e WebApp) em .NET 8, Blazor Server, MudBlazor, EF Core + SQL Server rodando na Azure.
+          <b>Ganhos:</b> Clean Architecture (Core, Infrastructure e WebApp) em .NET 8, Blazor Server, MudBlazor, EF Core + SQL Server. <a href="https://miles-manager-app-jgustavocn-acbhhhavcgchgsgk.eastus-01.azurewebsites.net/" target="_blank" rel="noopener noreferrer">Azure</a>
         </sub></p>
       </details>
     </td>
@@ -243,7 +206,16 @@
 
 ## Atividade &amp; Releases Recentes
 
-<p><sub>Resumo público atualizado automaticamente via GitHub Actions: <!-- github_stats starts --><b>20</b> repositórios públicos • <b>18</b> stars • <b>0</b> forks • <b>16</b> seguidores<!-- github_stats ends --></sub></p>
+<div align="center">
+  <a href="https://github.com/JGustavoCN?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/bento/activity-panel.svg" alt="Atividade e Releases Recentes" width="100%" />
+  </a>
+</div>
+
+<details>
+<summary><sub><b>Abrir links diretos dos repositórios e releases recentes</b></sub></summary>
+
+<br/>
 
 <table>
   <tr>
@@ -261,6 +233,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 

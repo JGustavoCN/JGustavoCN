@@ -27,7 +27,7 @@
 
   <rect x="224" y="16" width="295" height="22" rx="11" class="pill" />
   <text x="236" y="31" class="pill-txt">PRODUÇÃO (MEC/IFS) • NEXT.JS 16 • SUPABASE</text>
-  <text x="665" y="31" class="zoom-hint">[clique para ampliar detalhes]</text>
+  <text x="665" y="31" class="zoom-hint">[clique para abrir aplicação →]</text>
 
   <text x="224" y="65" class="title">Base de Apoio — Partiu IF</text>
   <text x="26" y="91" class="desc">Plataforma pedagógica oficial com provas A4 diagramadas (KaTeX), curadoria editorial, relatórios de monitoria e servidor MCP nativo.</text>
