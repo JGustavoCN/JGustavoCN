@@ -231,13 +231,13 @@
     <td width="50%" valign="top">
       <strong>Últimos Repositórios Atualizados</strong><br/><br/>
       <!-- recent_updates starts -->
-• <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex"><b>template-tcc-ifs-latex</b></a> <sub>(JavaScript • 2026-11-23)</sub><br>• <a href="https://github.com/JGustavoCN/mcp-gdocs-latex"><b>mcp-gdocs-latex</b></a> <sub>(Go • 2026-11-23)</sub><br>• <a href="https://github.com/JGustavoCN/PlayIFS"><b>PlayIFS</b></a> <sub>(Dart • 2026-09-10)</sub><br>• <a href="https://github.com/JGustavoCN/pharmastation"><b>pharmastation</b></a> <sub>(Java • 2026-09-08)</sub>
+• <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex"><b>template-tcc-ifs-latex</b></a> <sub>(JavaScript • 2026-11-24)</sub><br>• <a href="https://github.com/JGustavoCN/mcp-gdocs-latex"><b>mcp-gdocs-latex</b></a> <sub>(Go • 2026-11-23)</sub><br>• <a href="https://github.com/JGustavoCN/PlayIFS"><b>PlayIFS</b></a> <sub>(Dart • 2026-09-10)</sub><br>• <a href="https://github.com/JGustavoCN/pharmastation"><b>pharmastation</b></a> <sub>(Java • 2026-09-08)</sub>
 <!-- recent_updates ends -->
     </td>
     <td width="50%" valign="top">
       <strong>Últimos Releases Publicados</strong><br/><br/>
       <!-- recent_releases starts -->
-• <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex/releases/tag/build-14"><b>template-tcc-ifs-latex</b> <code>build-14</code></a> <sub>(2026-11-23)</sub><br>• <a href="https://github.com/JGustavoCN/pharmastation/releases/tag/v1.1.0"><b>pharmastation</b> <code>v1.1.0</code></a> <sub>(2026-09-08)</sub><br>• <a href="https://github.com/JGustavoCN/latex-filhos-de-obaluaie/releases/tag/build-1"><b>latex-filhos-de-obaluaie</b> <code>build-1</code></a> <sub>(2026-07-14)</sub>
+• <a href="https://github.com/JGustavoCN/template-tcc-ifs-latex/releases/tag/build-16"><b>template-tcc-ifs-latex</b> <code>build-16</code></a> <sub>(2026-11-24)</sub><br>• <a href="https://github.com/JGustavoCN/pharmastation/releases/tag/v1.1.0"><b>pharmastation</b> <code>v1.1.0</code></a> <sub>(2026-09-08)</sub><br>• <a href="https://github.com/JGustavoCN/latex-filhos-de-obaluaie/releases/tag/build-1"><b>latex-filhos-de-obaluaie</b> <code>build-1</code></a> <sub>(2026-07-14)</sub>
 <!-- recent_releases ends -->
     </td>
   </tr>
