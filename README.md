@@ -1,10 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
+  <img width="100%" src="./assets/bento/hero-blueprint.svg" alt="José Gustavo — Engenharia de Software" />
+
+  <br/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Jos%C3%A9+Gustavo;Full+Stack:+Java+|+DotNet+|+Go+|+React;Mobile+Dev+com+Flutter;Foco+em+Engenharia+de+Software+e+Performance;Seja+Bem-vindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Jos%C3%A9+Gustavo;Formado+em+Sistemas+de+Informa%C3%A7%C3%A3o+no+Instituto+Federal;Full+Stack:+Java+|+DotNet+|+Go+|+TypeScript+|+React;Mobile+Dev+com+Flutter;Foco+em+Engenharia+de+Software+e+Performance;Seja+Bem-vindo!" alt="Typing SVG" />
   </a>
-  <p><i>Combinando a robustez do <b>Java/C#</b> com a performance do <b>Go</b> e a agilidade do <b>React/Flutter</b>.</i></p>
+  <p><i>Combinando a robustez do <b>Java/C#</b> com a performance do <b>Go</b> e a agilidade do <b>TypeScript/React/Flutter</b>.</i></p>
+  <p>
+    <a href="https://www.linkedin.com/in/jgustavocn" target="_blank" rel="noopener noreferrer">
+      <img src="./assets/bento/badge-linkedin.svg" alt="LinkedIn — /in/jgustavocn" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -184,7 +193,7 @@
   </tr>
   <tr>
     <td><b>Linguagens &amp; UI</b></td>
-    <td><code>JavaScript</code> <code>PowerShell</code> <code>Blazor</code> <code>MudBlazor</code> <code>Material UI</code> <code>Tailwind v4</code> <code>Vite</code> <code>SWC</code></td>
+    <td><code>TypeScript</code> <code>JavaScript</code> <code>PowerShell</code> <code>Blazor</code> <code>MudBlazor</code> <code>Material UI</code> <code>Tailwind v4</code> <code>Vite</code> <code>SWC</code></td>
   </tr>
   <tr>
     <td><b>Backend &amp; IA</b></td>
