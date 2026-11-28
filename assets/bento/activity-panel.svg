@@ -16,7 +16,7 @@
   <path d="M 1 15 A 14 14 0 0 1 15 1 L 825 1 A 14 14 0 0 1 839 15 L 839 40 L 1 40 Z" class="hdr" />
   <line x1="1" y1="40" x2="839" y2="40" stroke="#21262d" stroke-width="1" />
 
-  <text x="26" y="25" class="hdr-txt">ATIVIDADE AUTOMATIZADA VIA GITHUB ACTIONS • 27/11/2026</text>
+  <text x="26" y="25" class="hdr-txt">ATIVIDADE AUTOMATIZADA VIA GITHUB ACTIONS • 28/11/2026</text>
   <text x="814" y="25" text-anchor="end" class="stats-txt">20 Repos • 18 Stars • 16 Seguidores</text>
 
   <text x="26" y="64" class="col-title">Últimos Repositórios Atualizados</text>
